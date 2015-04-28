@@ -7,9 +7,7 @@
 ```
 git clone https://github.com/xigua/mup-aliyun
 cd mup-aliyun
-./install-phantomjs.sh
-
-```
+./install-phantomjs.sh```
 3. 如顺利安装成功，再使用mup来远程或者本地deploy meteor app，注意在mup.json里将setupPhantom设为false。
 
 亦可参考 https://github.com/wmzhai/setup-meteor-machine/blob/master/README.md 中文安装指南。
